@@ -16,9 +16,7 @@ I can code :D
 
 # Badge Links
 
-Badge: https://github.com/girlscript/gssoc-website-new/tree/main/public/badges
-
-Each badge link looks like `<img src="url" width="" height="" />`
+ <img src="unnamed.png" width="" height="" />
 
 To customize them, simply copy one from the links below. And adjust the values in `width` and `height` as per your choice. And, make sure to use `px` or `rem`.
 
