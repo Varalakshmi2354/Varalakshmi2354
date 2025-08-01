@@ -1,4 +1,15 @@
-<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Kyubey.gif" width=20%>
+
+<div align="center">
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <img
+      src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Kyubey.gif"
+      width="15%" height="auto" align="left" style="flex: none;" alt="Kyubey" />
+    <img
+      src="header.svg"
+      alt="Animated name"
+      width="200" style="flex: none;" />
+  </div>
+</div>
 
 <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Blue%20Pink%20Line.gif" width= 100% height=1px>
 
