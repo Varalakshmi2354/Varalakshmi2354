@@ -26,8 +26,9 @@ jobs:
 
       - name: Generate pacman-contribution-graph.svg
         run: |
-          npx pacman-contribution-graph -u Varalakshmi2354
+          npx pacman-contribution-graph -p github -gt github -un Varalakshmi2354
           ls -lah
+
 
       - name: Prepare dist folder
         run: |
