@@ -1,14 +1,10 @@
-<div align="center">
-  <div style="display: flex; align-items: center; gap: 20px;">
-    <img
+ <img
       src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Kyubey.gif"
-      width="13%" height="auto" align="left" style="flex: none;" alt="Kyubey" />
-    <img
-      src="header.svg"
-      alt="Animated name"
-      width="200" align="left" style="flex: none; padding: 20px" />
-  </div>
+      width="20%" height="auto" align="left" style="flex: none;" alt="Kyubey" />
+<div align="center">
+  <img src="header.svg" alt="Animated name" />
 </div>
+
 
 <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Blue%20Pink%20Line.gif" width= 100% height=1px>
 
