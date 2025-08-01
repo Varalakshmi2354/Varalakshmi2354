@@ -1,10 +1,9 @@
- <img
-      src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Kyubey.gif"
-      width="20%" height="auto" align="left" style="flex: none;" alt="Kyubey" />
-<div align="center">
+ <div align="center">
   <img src="header.svg" alt="Animated name" />
 </div>
-
+<img
+      src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Kyubey.gif"
+      width="20%" height="auto" align="left" style="flex: none;" alt="Kyubey" />
 
 <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Blue%20Pink%20Line.gif" width= 100% height=1px>
 
