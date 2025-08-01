@@ -17,7 +17,7 @@
           overflow: hidden;
           border-right: 3px solid currentColor;
           font-family: monospace;
-          font-size: 3.5em;
+          font-size: 4em; /* larger text */
           color: #6a0dad;
           background: linear-gradient(90deg, #ff0080, #7928ca);
           -webkit-background-clip: text;
