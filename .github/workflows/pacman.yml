@@ -16,19 +16,26 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout repository
+      - name: Checkout your repository
         uses: actions/checkout@v4
 
-      - name: Generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@main
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          github_user_name: Varalakshmi2354
+          node-version: '20'
+
+      - name: Generate pacman-contribution-graph.svg
+        run: |
+          npx pacman-contribution-graph -u Varalakshmi2354
+          ls -lah
+
       - name: Prepare dist folder
         run: |
           mkdir -p dist
           mv pacman-contribution-graph*.svg dist/
+          ls -lah dist
 
-      - name: Push SVG to the output branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
